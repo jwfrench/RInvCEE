@@ -3,7 +3,7 @@
 #' Based on theme_minimal, it sets font, background, legend position,
 #' axis, gridlines
 #' @export
-theme_jack <- function(){
+theme_invcee <- function(){
   font <- "Times"   #assign font family up front
 
   theme_minimal() %+replace%    #replace elements we want to change
