@@ -3,7 +3,7 @@
 #' Based on theme_minimal, it sets font, background, legend position,
 #' axis, gridlines
 #' @export
-theme_invcee <- function(){
+theme_invcee_gray <- function(){
   font <- "Times"   #assign font family up front
 
   theme_minimal() %+replace%    #replace elements we want to change
@@ -11,9 +11,9 @@ theme_invcee <- function(){
     theme(
 
       ### base colors
-      plot.background = element_rect(fill="aliceblue", colour=NA),
-      legend.background = element_rect(fill="aliceblue", colour=NA),
-      legend.key = element_rect(fill="aliceblue", colour=NA),
+      plot.background = element_rect(fill="whitesmoke", colour=NA),
+      legend.background = element_rect(fill="whitesmoke", colour=NA),
+      legend.key = element_rect(fill="whitesmoke", colour=NA),
 
 
       #grid elements
