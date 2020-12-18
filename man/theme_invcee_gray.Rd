@@ -5,7 +5,7 @@
 \title{Theme InvestCEE
 This function provides the look of ggplots for InvestCEE.com
 Based on theme_minimal, it sets font, background, legend position,
-axis, gridlines}
+axis, gridlines, with gray background}
 \usage{
 theme_invcee_gray()
 }
@@ -13,5 +13,5 @@ theme_invcee_gray()
 Theme InvestCEE
 This function provides the look of ggplots for InvestCEE.com
 Based on theme_minimal, it sets font, background, legend position,
-axis, gridlines
+axis, gridlines, with gray background
 }
