@@ -1,17 +1,20 @@
 #' Theme InvestCEE
 #' This function provides the look of ggplots for InvestCEE.com
-#' Based on theme_minimal, it sets font, background, legend position,
+#' Based on theme_grey, it sets font, background, legend position,
 #' axis, gridlines, with blue background
 #' @export
 theme_invcee <- function(){
   font <- "Times"   #assign font family up front
 
-  theme_minimal() %+replace%    #replace elements we want to change
+  theme_grey() %+replace%    #replace elements we want to change
 
     theme(
 
       ### base colors
       plot.background = element_rect(fill="aliceblue", colour=NA),
+      panel.background = element_rect(fill="aliceblue", colour=NA),
+
+      # legend
       legend.background = element_rect(fill="aliceblue", colour=NA),
       legend.key = element_rect(fill="aliceblue", colour=NA),
 
@@ -23,8 +26,12 @@ theme_invcee <- function(){
       panel.grid.minor.y = element_line(size = rel(0.75), color = "dodgerblue4"),
       axis.ticks = element_line(size = rel(0.95), color = "dodgerblue4"),          #strip axis ticks
 
-      #since theme_minimal() already strips axis lines,
-      #we don't need to do that again
+      ###### strip for facetwrap
+      strip.background   = element_rect(fill = "dodgerblue4", color = "dodgerblue4"),
+      strip.text         = element_text(family = font,
+                                        color = "whitesmoke",
+                                        size = rel(1.1),
+                                        margin = margin(t = 5, b = 5)),
 
       #text elements
       plot.title = element_text(             #title

@@ -4,7 +4,7 @@
 \alias{theme_invcee}
 \title{Theme InvestCEE
 This function provides the look of ggplots for InvestCEE.com
-Based on theme_minimal, it sets font, background, legend position,
+Based on theme_grey, it sets font, background, legend position,
 axis, gridlines, with blue background}
 \usage{
 theme_invcee()
@@ -12,6 +12,6 @@ theme_invcee()
 \description{
 Theme InvestCEE
 This function provides the look of ggplots for InvestCEE.com
-Based on theme_minimal, it sets font, background, legend position,
+Based on theme_grey, it sets font, background, legend position,
 axis, gridlines, with blue background
 }
