@@ -2,3 +2,4 @@
 
 export(theme_invcee)
 export(theme_invcee_gray)
+export(theme_invcee_plain)
