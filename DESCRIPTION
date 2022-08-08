@@ -8,6 +8,7 @@ Authors@R:
            email = "jack.french@quinnipiac.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: This package simply provides the theme used for graphing on InvestCEE.com.
+Imports: tidyverse, RCurl
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
     pick a license
 Encoding: UTF-8
