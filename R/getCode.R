@@ -14,8 +14,7 @@ getCode = function(conceptCode, countryCode) {
   names(data)[1] = "countryName"
 
   codeToUse = if ((conceptCode %in% names(data)) & (countryCode %in% data$isoCode)) { #if 'code' input from concept list matches something in code map,
-    countryCodes = data %>%
-      filter(isoCode == countryCode)
+    countryCodes = filter(data, isoCode == countryCode)
     countryCodes[[conceptCode]]  # return the value associated with it
   } else {
     conceptCode #else just use the code from the concept list. this allows you to enter "CPI" or something like "IMF/CPI/M.USA.PCPI_IX"
