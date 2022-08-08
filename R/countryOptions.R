@@ -1,6 +1,8 @@
 #' InvestCEE
 #' This function provides access to the list of available countries stored in a central repository
 #' @export
+#' @examples
+#' countryOptions("unemployment") or countryOptions()
 countryOptions = function(concept = NULL) {
   url = "https://raw.githubusercontent.com/jwfrench/RInvCEE/main/Data%20codes%20for%20Github.csv"
   x = getURL(url)
