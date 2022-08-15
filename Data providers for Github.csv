@@ -1,26 +1,21 @@
-﻿countryName,isoCode,CPI,unemployment,grossDebtToGDP,netDebtToGDP,primaryBalance,realGDP,nominalGDP,overnightInterbankRate,tenYearNominalRate
-United States,US,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
-United Kingdom,UK,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
-Europe,EU,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,#N/A,#N/A,dbnomics,dbnomics
-Hungary,HU,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
-Poland,PL,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
-Czech,CZ,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
-Romania,RO,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
-Slovakia,SK,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
-Germany,DE,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
-Japan,JP,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
-China,CN,dbnomics,#N/A,dbnomics,dbnomics,dbnomics,#N/A,#N/A,dbnomics,dbnomics
-India,IN,dbnomics,#N/A,dbnomics,dbnomics,dbnomics,#N/A,#N/A,dbnomics,dbnomics
-Canada,CA,dbnomics,#N/A,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
-France,FR,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
-Italy,IT,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
-Denmark,DK,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
-Sweden,SE,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
-Austria,AT,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
-Switzerland,CH,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,#N/A,#N/A,dbnomics,dbnomics
-Australia,AU,dbnomics,#N/A,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
+﻿countryName,isoCode,CPI,unemployment,grossDebtToGDP,netDebtToGDP,primaryBalance,realGDP,nominalGDP,overnightInterbankRate,tenYearNominalRate,currentAccountLCU,currentAccountUSD,capitalAccountLCU,capitalAccountUSD,currentAccountPCTGDP,realExchangeRate,nominalGovernmentExpenditure,realGovernmentExpenditure,dailyPolicyRate,broadMoney,narrowMoney
+United States,US,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
+United Kingdom,UK,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
+Europe,EU,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,#N/A,#N/A,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
+Hungary,HU,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
+Poland,PL,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
+Czech,CZ,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
+Romania,RO,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,dbnomics,#N/A,#N/A
+Slovakia,SK,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,#N/A,#N/A,#N/A
+Germany,DE,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,#N/A,#N/A,#N/A
+Japan,JP,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
+China,CN,dbnomics,#N/A,dbnomics,dbnomics,dbnomics,#N/A,#N/A,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,#N/A,#N/A,#N/A,dbnomics,dbnomics,dbnomics
+India,IN,dbnomics,#N/A,dbnomics,dbnomics,dbnomics,#N/A,#N/A,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,#N/A,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
+Canada,CA,dbnomics,#N/A,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
+France,FR,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,#N/A,#N/A,#N/A
+Italy,IT,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,#N/A,#N/A,#N/A
+Denmark,DK,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
+Sweden,SE,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
+Austria,AT,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,#N/A,#N/A,#N/A
+Switzerland,CH,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,#N/A,#N/A,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics
+Australia,AU,dbnomics,#N/A,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics,dbnomics

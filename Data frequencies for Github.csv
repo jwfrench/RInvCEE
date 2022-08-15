@@ -1,26 +1,21 @@
-﻿countryName,isoCode,CPI,unemployment,grossDebtToGDP,netDebtToGDP,primaryBalance,realGDP,nominalGDP,overnightInterbankRate,tenYearNominalRate
-United States,US,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly
-United Kingdom,UK,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly
-Europe,EU,monthly,monthly,annual,annual,annual,#N/A,#N/A,monthly,monthly
-Hungary,HU,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly
-Poland,PL,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly
-Czech,CZ,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly
-Romania,RO,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly
-Slovakia,SK,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly
-Germany,DE,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly
-Japan,JP,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly
-China,CN,monthly,#N/A,annual,annual,annual,#N/A,#N/A,monthly,monthly
-India,IN,monthly,#N/A,annual,annual,annual,#N/A,#N/A,monthly,monthly
-Canada,CA,monthly,#N/A,annual,annual,annual,quarterly,quarterly,monthly,monthly
-France,FR,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly
-Italy,IT,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly
-Denmark,DK,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly
-Sweden,SE,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly
-Austria,AT,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly
-Switzerland,CH,monthly,monthly,annual,annual,annual,#N/A,#N/A,monthly,monthly
-Australia,AU,monthly,#N/A,annual,annual,annual,quarterly,quarterly,monthly,monthly
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
+﻿countryName,isoCode,CPI,unemployment,grossDebtToGDP,netDebtToGDP,primaryBalance,realGDP,nominalGDP,overnightInterbankRate,tenYearNominalRate,currentAccountLCU,currentAccountUSD,capitalAccountLCU,capitalAccountUSD,currentAccountPCTGDP,realExchangeRate,nominalGovernmentExpenditure,realGovernmentExpenditure,dailyPolicyRate,broadMoney,narrowMoney
+United States,US,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,daily,monthly,monthly
+United Kingdom,UK,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,daily,monthly,monthly
+Europe,EU,monthly,monthly,annual,annual,annual,#N/A,#N/A,monthly,monthly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,daily,monthly,monthly
+Hungary,HU,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,daily,monthly,monthly
+Poland,PL,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,daily,monthly,monthly
+Czech,CZ,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,daily,monthly,monthly
+Romania,RO,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,daily,#N/A,#N/A
+Slovakia,SK,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,#N/A,#N/A,#N/A
+Germany,DE,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,#N/A,#N/A,#N/A
+Japan,JP,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,daily,monthly,monthly
+China,CN,monthly,#N/A,annual,annual,annual,#N/A,#N/A,monthly,monthly,quarterly,quarterly,quarterly,quarterly,quarterly,#N/A,#N/A,#N/A,daily,monthly,monthly
+India,IN,monthly,#N/A,annual,annual,annual,#N/A,#N/A,monthly,monthly,quarterly,quarterly,quarterly,quarterly,quarterly,#N/A,quarterly,quarterly,daily,monthly,monthly
+Canada,CA,monthly,#N/A,annual,annual,annual,quarterly,quarterly,monthly,monthly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,daily,monthly,monthly
+France,FR,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,#N/A,#N/A,#N/A
+Italy,IT,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,#N/A,#N/A,#N/A
+Denmark,DK,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,daily,monthly,monthly
+Sweden,SE,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,daily,monthly,monthly
+Austria,AT,monthly,monthly,annual,annual,annual,quarterly,quarterly,monthly,monthly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,#N/A,#N/A,#N/A
+Switzerland,CH,monthly,monthly,annual,annual,annual,#N/A,#N/A,monthly,monthly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,daily,monthly,monthly
+Australia,AU,monthly,#N/A,annual,annual,annual,quarterly,quarterly,monthly,monthly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,quarterly,daily,monthly,monthly
