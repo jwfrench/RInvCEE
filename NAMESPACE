@@ -3,6 +3,7 @@
 export(conceptOptions)
 export(countryOptions)
 export(getCode)
+export(getDescription)
 export(getFrequency)
 export(getProvider)
 export(getSource)
